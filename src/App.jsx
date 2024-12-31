@@ -5,10 +5,10 @@ function App() {
   return(
     
     <>
-      <div className="container">
+      <div>
         <header className="title-container">
           <h1 className="heading">QUIZIFY</h1>
-          <p className='subheading'>.....Real-Time Knowledge Tester.....</p>
+          <p className='subheading'>Real-Time Knowledge Tester</p>
         </header>
         <Quiz />
       </div>
